@@ -91,14 +91,14 @@ a:hover {
     background-color: #17E9E0;
     border-radius: 6px;
     color: #8860D0 !important;
-    padding: 7 3px;
+    padding: 3px;
 }
 
 .active {
     background-color: #17E9E0;
     border-radius: 6px;
     color: #8860D0 !important;
-    padding: 7 3px !important;
+    padding: 3px !important;
     
 
    
@@ -132,7 +132,7 @@ a:hover {
 
 .header button {
     background: #431c5d;
-    color: #FFB38F
+    color: #FFB38F;
     -webkit-filter: drop-shadow(10px 10px 10px #8860D0);
 }
 
@@ -338,21 +338,21 @@ label, p, h1 {
 
 /* Facebook */
 .fa-facebook {
-    background: ;
+
     color: #8860D0 !important;
     -webkit-filter: drop-shadow(10px 10px 10px #8860D0);
 }
 
 /* Instagram */
 .fa-instagram {
-    background: ;
+
     color: #8860D0 !important;
     -webkit-filter: drop-shadow(10px 10px 10px #8860D0);
 }
 
 /* IMDB */
 .fa-imdb {
-    background: ;
+
     color: #8860D0 !important;
     -webkit-filter: drop-shadow(10px 10px 10px #8860D0);
 }
