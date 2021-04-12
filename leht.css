@@ -63,8 +63,6 @@ li a {
 }
 
 #logo {
-  position: relative;
-  height: 10%;
   -webkit-filter: drop-shadow(5px 5px 5px #222);
   filter: drop-shadow(5px 5px 5px #222);
 }
